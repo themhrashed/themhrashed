@@ -1,6 +1,8 @@
 # Passionate WordPress Enthusiast and Web Developer! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=light" alt="GitHub Stats">
+</p>
 
 Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
 
