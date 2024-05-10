@@ -1,4 +1,4 @@
-# Passionate WordPress Enthusiast and Web Developer! 🚀
+WordPress Enthusiast and SEO Expert
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=light" alt="GitHub Stats">
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 
 🌱 I’m also delving into:
 - Advanced WordPress development techniques
-- JavaScript frameworks like React.js
 - PHP for backend development
+- Javascript for Frontend
 
 💬 Feel free to reach out for any WordPress or web development queries, I'm always eager to help!
 
