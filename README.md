@@ -33,13 +33,15 @@ Welcome to my GitHub profile! I'm M.H. Rahsed, hailing from [![Bangladesh](https
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />](https://www.php.net)
 [<img align="left" alt="WordPress" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />](https://wordpress.com/)
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />](https://github.com/)
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />](https://github.com/)
 [<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />](https://www.figma.com/)
 
+<br>
+<br>
+<br>
+
 ---
-<br>
-<br>
 
 ### GitHub Stats:
 
