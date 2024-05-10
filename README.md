@@ -1,6 +1,6 @@
 # Passionate WordPress Enthusiast and Web Developer! 🚀
 
-Welcome to my GitHub profile! I'm M.H. Rahsed, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
+Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
 
 🔭 Currently, I'm immersed in WordPress projects and sharpening my skills in JavaScript and PHP.
 
