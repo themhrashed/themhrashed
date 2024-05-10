@@ -1,4 +1,5 @@
-WordPress Enthusiast and SEO Expert
+
+# WordPress Enthusiast and an SEO Expert
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=light" alt="GitHub Stats">
