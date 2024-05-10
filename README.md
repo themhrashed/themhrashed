@@ -1,5 +1,7 @@
 # Passionate WordPress Enthusiast and Web Developer! 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=radical)
+
 Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
 
 🔭 Currently, I'm immersed in WordPress projects and sharpening my skills in JavaScript and PHP.
@@ -15,8 +17,6 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 
 ---
 
-### Connect with Me:
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/themhrashed/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://fb.com/themhrashed/)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/themhrashed/)
@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 [![Email](https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=gmail)](mailto:hello@mhrashed.com)
 
 ---
-
-### Skills and Tools:
 
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3schools.com/html/)
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
@@ -42,7 +40,5 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 <br>
 
 ---
-
-### GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themhrashed&layout=compact)
