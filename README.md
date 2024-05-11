@@ -1,8 +1,7 @@
-
 # WordPress Enthusiast and an SEO Expert
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=light" alt="GitHub Stats">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=themhrashed" alt="GitHub Streak" /></a> 
 </p>
 
 Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
@@ -42,6 +41,8 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 <br>
 <br>
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themhrashed&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=light" alt="GitHub Stats">
+</p>
