@@ -41,7 +41,9 @@ Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themhrashed&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themhrashed&layout=compact" alt="Top Languages">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themhrashed&show_icons=true&theme=dark" alt="GitHub Stats">
