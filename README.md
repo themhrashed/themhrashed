@@ -1,7 +1,7 @@
 # WordPress Enthusiast and an SEO Expert
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=themhrashed" alt="GitHub Streak" /></a> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=themhrashed&theme=gruvbox&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 Welcome to my GitHub profile! I'm <b>M.H. Rahsed</b>, hailing from [![Bangladesh](https://img.shields.io/badge/🇧🇩-Bangladesh-green)](https://en.wikipedia.org/wiki/Bangladesh).
